@@ -33,3 +33,12 @@ p {
     font-size: 21px;
     color: gray;
 }
+
+footer p {
+    color: gray;
+    text-align: right;
+}
+
+#img-phone {
+    margin-top: 20px;
+}
